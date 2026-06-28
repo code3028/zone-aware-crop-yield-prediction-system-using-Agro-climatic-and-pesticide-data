@@ -1,0 +1,2 @@
+# zone-aware-crop-yield-prediction-system-using-Agro-climatic-and-pesticide-data
+Zone-Aware Crop Yield Prediction System using Agro-Climatic and Pesticide Data is a Machine Learning and Deep Learning-based web application that predicts crop yield using rainfall, temperature, humidity, soil, pesticide usage, crop type, season, and agro-climatic zones to support accurate, data-driven farming decisions.
