@@ -1,0 +1,11 @@
+streamlit==1.53.0
+numpy
+pandas
+scikit-learn
+lightgbm
+tensorflow
+plotly
+geopandas
+pynasapower
+matplotlib
+reportlab
